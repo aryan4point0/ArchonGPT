@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 .env
 .streamlit/secrets.toml
 *.pyc
+=======
+.venv/
+__pycache__/
+.env
+.streamlit/secrets.toml
+*.pyc
+>>>>>>> 2cf9b1cd3b0623547207f82c702b3b0fe41bb59f
 .vscode/
